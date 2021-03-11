@@ -1,4 +1,4 @@
 <?php
-echo "this is for test1";
+echo "this is for test2";
 
 ?>
